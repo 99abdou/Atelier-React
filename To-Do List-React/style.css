@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-top: 10px;
+  }
+  
+  button{
+    background-color: #564caf; /* Green */
+    border: none;
+    color: #fff;
+  }
+
+  .btn{
+    margin-left: 100px;
+  }
