@@ -1,0 +1,33 @@
+body{
+  background:#2e2e49;
+}
+
+textarea{
+  width: 90%;
+  height: 250%;
+  border-radius: 5px;
+}
+
+input{
+  /* height: 180px; */
+  width: 80%;
+  border-radius: 5px;
+}
+
+button{
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 770px) {
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  textarea, input{
+    width: 90%;
+  }
+  button{
+    margin-top: 20px;
+    }
+}  
